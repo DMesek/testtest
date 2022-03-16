@@ -1,3 +1,3 @@
 * Testing idea
 
-![Screenshot](components/screenshot.png)
+![Alt text](components/screenshot.png)
