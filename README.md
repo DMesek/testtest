@@ -1,3 +1,3 @@
 * Testing idea
 
-![Alt text](.components/screenshot.png?raw=true "Title")
+![alt text](https://github.com/DMesek/testtest/blob/master/components/component.png)
